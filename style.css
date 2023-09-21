@@ -13,6 +13,7 @@ body
     background: rgb(0, 157, 255);
     text-shadow: 4px 4px 4px rgb(151, 149, 149);
     line-height: 2;
+    font-family: 'PT Serif', serif;
 }
 
 #b1
